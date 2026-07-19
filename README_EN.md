@@ -162,4 +162,4 @@ See [references/open-source-reuse.md](references/open-source-reuse.md) for the d
 
 ## License
 
-No open-source license has been granted yet. Public visibility does not automatically grant permission to copy, modify, or redistribute this repository. Contact the repository owner for reuse or republication.
+This project is licensed under the [MIT License](LICENSE). You may use, copy, modify, merge, publish, distribute, sublicense, and sell the project, including as part of commercial or closed-source products, provided that the original copyright notice and MIT license text are preserved. The project is provided “as is,” without warranty.

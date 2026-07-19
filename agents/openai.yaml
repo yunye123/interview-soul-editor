@@ -1,0 +1,4 @@
+interface:
+  display_name: "访谈灵魂剪辑"
+  short_description: "把访谈原始素材变成可核验、可回剪的精品短视频剪辑稿"
+  default_prompt: "Use $interview-soul-editor to turn this interview footage into a verbatim, source-verifiable short-video edit plan."
